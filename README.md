@@ -15,3 +15,6 @@
 - **Тема 10 [[Семинар](./Seminar/Week%2010/)][[Практикум](./Practicum//Week10/)]** - Множествено наследяване.
 - **Тема 11 [[Семинар](./Seminar/Week%2011/)][[Практикум](./Practicum//Week11/)]** - Колекции от обекти в полиморфна йерархия.
 - **Тема 12 [[Семинар](./Seminar/Week%2012/)][[Практикум](./Practicum//Week12/)]** - Шаблони.
+- **Тема 13 [[Семинар](./Seminar/Week%2013/)][[Практикум](./Practicum//Week13/)]** - Dynamic memory management.
+- **Тема 14 [[Семинар](./Seminar/Week%2014/)][[Практикум](./Practicum//Week14/)]** - Design patterns & SOLID principles.
+- **Тема 15 [[Семинар](./Seminar/Week%2015/)][[Практикум](./Practicum//Week15/)]** - Обектно-ориентирано програмиране.
